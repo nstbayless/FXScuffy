@@ -1,0 +1,5 @@
+__pycache__/
+*.ttf
+!sources/*.ttf
+!fonts/*.ttf
+build/
